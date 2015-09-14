@@ -1,7 +1,7 @@
 #pragma once
 
 #include "ofMain.h"
-#include "MSAPingPong.h"
+#include "msalibs/ofxMSAPingPong/src/MSAPingPong.h"
 
 
 namespace msa {
